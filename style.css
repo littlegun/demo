@@ -1,0 +1,30 @@
+nav img {
+  display: block;
+  background-position: center;
+  background-size: cover;
+  height: 480px;
+    width: auto;
+    margin-left: 300px;
+}
+
+iframe {
+    width="600" ;
+    height: 200px;
+    border="0" ;
+}
+
+#title {
+    position: absolute;
+	top: 123px;
+	text-align: center;
+	left: calc(50% - 216px);
+	background-color: rgba(0,0,0,0.3);
+	color: #fff;
+	padding: 20px;
+	z-index: 10;
+}
+
+img{
+    height: 200px;
+    
+}
